@@ -70,7 +70,7 @@ A Java desktop application for managing student course registration, built using
 ## 🚀 How to Run the Program
 
 1. Open the project with NetBeans.
-2. Locate and run the main class (`Main.java` or equivalent).
+2. Locate and run the main class (`HomeFrm.java` or equivalent).
 3. The graphical user interface will launch automatically.
 
 ---
