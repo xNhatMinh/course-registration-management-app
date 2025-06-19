@@ -137,7 +137,7 @@ public class HomeFrm extends javax.swing.JFrame implements ActionListener {
         jMenu2 = new javax.swing.JMenu();
 
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
-        setTitle("QUẢN LÝ ĐĂNG KÝ MÔN HỌC");
+        setTitle("COURSE REGISTRATION MANAGEMENT");
         setResizable(false);
 
         jPanel5.setBorder(javax.swing.BorderFactory.createTitledBorder(null, "Sort subject list", javax.swing.border.TitledBorder.DEFAULT_JUSTIFICATION, javax.swing.border.TitledBorder.DEFAULT_POSITION, new java.awt.Font("Tahoma", 0, 14))); // NOI18N
@@ -728,7 +728,7 @@ public class HomeFrm extends javax.swing.JFrame implements ActionListener {
 
         jMenuItem1.setAccelerator(javax.swing.KeyStroke.getKeyStroke(java.awt.event.KeyEvent.VK_E, java.awt.event.InputEvent.ALT_DOWN_MASK));
         jMenuItem1.setIcon(new javax.swing.ImageIcon(getClass().getResource("/images/turn-off-24px.png"))); // NOI18N
-        jMenuItem1.setText("Thoát");
+        jMenuItem1.setText("Exit");
         jMenuItem1.addActionListener(new java.awt.event.ActionListener() {
             public void actionPerformed(java.awt.event.ActionEvent evt) {
                 jMenuItem1ActionPerformed(evt);
